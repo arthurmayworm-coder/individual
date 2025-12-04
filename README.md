@@ -32,13 +32,10 @@ O projeto foi criado como parte de um trabalho acadêmico, demonstrando a constr
 
 ---
 
-## 🧪 API e Swagger
-O projeto consome dados do Swagger 
 
-🔗 **Link do Deploy / Swagger:**  
-*coloque o link aqui*  
-Exemplo:  
-`https://seuswagger.com/docs`
+🔗 **Link do Deploy do Swagger:**  
+*c[](https://individual-j0gy.onrender.com/individual/swagger-ui/index.html#/)*  
+
 
 ---
 
