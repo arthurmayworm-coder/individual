@@ -34,7 +34,7 @@ O projeto foi criado como parte de um trabalho acadêmico, demonstrando a constr
 
 
 🔗 **Link do Deploy do Swagger:**  
-*c[](https://individual-j0gy.onrender.com/individual/swagger-ui/index.html#/)*  
+*(https://individual-j0gy.onrender.com/individual/swagger-ui/index.html#/)*  
 
 
 ---
