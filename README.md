@@ -37,35 +37,6 @@ O projeto foi criado como parte de um trabalho acadêmico, demonstrando a constr
 *(https://individual-j0gy.onrender.com/individual/swagger-ui/index.html#/)*  
 
 
----
-
-## 🖼️ Prints das Telas (FlutterFlow)
-
-### **Tela de Login**
-![Tela Login](<img width="259" height="550" alt="image" src="https://github.com/user-attachments/assets/a0561240-7783-49ff-8261-ccb7ae412021" />
-)
-
-### **Tela de Dados do Usuário**
-![Dados do Usuário](<img width="267" height="539" alt="image" src="https://github.com/user-attachments/assets/112a3dc3-4393-4592-87ab-c423b01d926e" />
-)
-
-### **Tela de Endereço**
-![Endereço](<img width="266" height="549" alt="image" src="https://github.com/user-attachments/assets/9f4dc45f-551a-4625-8976-a060fae95a29" />
-)
-
-
-### **Tela de Cadastro**
-![Cadastro](<img width="264" height="537" alt="image" src="https://github.com/user-attachments/assets/20634088-e27c-44b3-8f9c-a48897d92979" />
-)
-
-### **Tela de Produtos**
-![Tela Produto](<img width="264" height="532" alt="image" src="https://github.com/user-attachments/assets/83283c24-f7a8-4bce-bef6-19fc7e7e4ff5" />
-)
-
-### **Tela Inicial**
-![Tela Inicial](<img width="265" height="548" alt="image" src="https://github.com/user-attachments/assets/9deb0f58-24bf-4075-a78a-0281c1dfe1ad" />
-)
----
 
 ## 🧰 Tecnologias Utilizadas
 - **FlutterFlow** (criação da interface)  
